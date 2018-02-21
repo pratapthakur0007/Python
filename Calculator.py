@@ -23,11 +23,7 @@ Type "copyright", "credits" or "license()" for more information.
 >>> width * height
 900
 >>> 
->>> n  #try to access an undefined variable
-Traceback (most recent call last):
-  File "<pyshell#16>", line 1, in <module>
-    n  #try to access an undefined variable
-NameError: name 'n' is not defined
+
 >>> 
 >>> 
 >>> 4 * 3.75 - 1
